@@ -18,3 +18,5 @@ I bridge the gap between technical complexity and business value. Currently comp
 ### 📫 Let's Connect
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](PUT_YOUR_LINKEDIN_URL_HERE)
 [<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white" />](PUT_YOUR_PORTFOLIO_URL_HERE)
+
+(Portfolio is in Swedish)
