@@ -1,7 +1,7 @@
 # Hi there, I'm Axel 👋
 
-### Fututre Information systems specialist
-I bridge the gap between technical complexity and business value. Currently completing my BSc in Information Systems at Lund University.
+### Future Information systems specialist
+I strive to bridge the gap between technical complexity and business value. Currently completing my BSc in Information Systems at Lund University.
 
 - 🔭 **Currently working on:** A cloud-native secure file transfer platform (Azure/Python) as my final-year BSc project.
 - 📍 **Location:** Malmö/Copenhagen.
