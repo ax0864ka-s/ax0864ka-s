@@ -9,4 +9,4 @@ As I transition from academia to the professional world, I am eager to apply my 
 -  **Location:** Malmö/Copenhagen.
 
 ### Let's Connect
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]((https://se.linkedin.com/in/axel-karlén-bba94b28a))
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://se.linkedin.com/in/axel-karlén-bba94b28a)
