@@ -1,7 +1,7 @@
 # Hi there, I'm Axel 
 
 ### Aspiring Information systems specialist
-I am a final-year student in Design of Information Systems at Lund School of Economics and Management. My passion lies at the intersection of business strategy and technology—I strive to build technical solutions that drive real organizational value.
+I am a final-year student in Design of Information Systems at Lund School of Economics and Management. My passion lies at the intersection of business and technology—I strive to build technical solutions that drive real organizational value.
 
 As I transition from academia back to the professional world, I am eager to apply my technical foundation in real-world development scenarios. My goal is to contribute immediately while continuously refining my skills to define my long-term area of expertise.
 
